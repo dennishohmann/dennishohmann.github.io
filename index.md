@@ -3,4 +3,4 @@ Startpage
 
 Dann eben mit Markdown... Jekyll wäre eine Option
 
-[Südafrika-Projekt] https://dennishohmann.github.io/suedafrica/ "Title"
+   [Südafrika-Projekt]: https://dennishohmann.github.io/suedafrica/ "Title"
